@@ -1,0 +1,5 @@
+Accuracy=0.9400
+Precision=0.9333
+Recall=0.9655
+F1=0.9492
+Selected features=pga_g, pga_growth, p_wave_sec, distance_km, stations

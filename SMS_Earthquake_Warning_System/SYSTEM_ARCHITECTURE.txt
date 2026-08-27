@@ -1,0 +1,2 @@
+SMS-BASED EARTHQUAKE WARNING SYSTEM
+Sensors/Data → Preprocessing → Feature Engineering → SelectKBest → Random Forest → Warning Decision → SMS Gateway Simulation → Mobile User
